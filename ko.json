@@ -1,5 +1,7 @@
 {
     "enUS": "English",
     "koKR": "한국어",
-    "voice_language": "음성 언어"
+    "voice_language": "음성 언어",
+    "voice_en": "영어",
+    "language": "언어"
 }
